@@ -5,7 +5,7 @@
 
 
 import csv
-f = open("guns.csv")
+f = open("c:\\users\\njtj\\desktop\\guns.csv")
 csvreader = csv.reader(f)
 data = list(csvreader)
 
@@ -77,8 +77,8 @@ print(sex_counts)
 # In[58]:
 
 
-g = open("census.csv")
-census = list(csv.reader(g))
+g = open("c:\\users\\njtj\\desktop\\census.csv")
+census = list(csv.reader(g, quotechar = '"'))
 print(census)
 
 
@@ -123,7 +123,6 @@ for race in homicide_race_counts:
 print(homicide_race_counts)
             
 
-
 # In[61]:
 
 
@@ -163,5 +162,18 @@ print(suicide_race_counts)
 # In[ ]:
 
 
+education_level = {}
+for row in data:
+    if row[10] in education_level:
+        education_level[row[10]] += 1
+    else:
+        education_level[row[10]] = 1
+
+totalDeaths = 0
+for row in education_level:
+    totalDeaths += education_level[row]
+
+for row in education_level:
+    print(row + ": " + str((education_level[row] / totalDeaths) * 100) + "%")
 
 
