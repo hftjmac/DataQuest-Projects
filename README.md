@@ -9,3 +9,6 @@ Pandas and Numpy Fundamentals project:
 
 Exploratory Data Visualization project:
 - [Visualizing_Recent_Grads.py](https://github.com/hftjmac/DataQuest-Projects/blob/master/Visualizing_Recent_Grads.py)
+
+Visualizing the Gender Gaps in Degrees:
+- [Visualizing_the_Gender_Gaps_in_Degrees.py](https://github.com/hftjmac/DataQuest-Projects/blob/master/Visualizing_The_Gender_Gaps_in_Degrees.ipynb)
