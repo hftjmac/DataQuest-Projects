@@ -12,3 +12,6 @@ Exploratory Data Visualization project:
 
 Visualizing the Gender Gaps in Degrees:
 - [Visualizing_the_Gender_Gaps_in_Degrees.ipynb](https://github.com/hftjmac/DataQuest-Projects/blob/master/Visualizing_The_Gender_Gaps_in_Degrees.ipynb)
+
+Analyzing NYC High School Data:
+- [Schools.ipynb](https://github.com/hftjmac/DataQuest-Projects/blob/master/Schools.ipynb)
