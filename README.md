@@ -15,3 +15,6 @@ Visualizing the Gender Gaps in Degrees:
 
 Analyzing NYC High School Data:
 - [Schools.ipynb](https://github.com/hftjmac/DataQuest-Projects/blob/master/Schools.ipynb)
+
+Star Wars Survey:
+- [Star_Wars_Survey.ipynb](https://github.com/hftjmac/DataQuest-Projects/blob/master/Star_Wars_Survey.ipynb)
