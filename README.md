@@ -20,4 +20,4 @@ Star Wars Survey:
 - [Star_Wars_Survey.ipynb](https://github.com/hftjmac/DataQuest-Projects/blob/master/Star_Wars_Survey.ipynb)
 
 Finding the Best Markets to Advertise in:
-- [Finding_The_Best_Markets_To_Advertise.ipynb](https://github.com/hftjmac/DataQuest-Projects/blob/master/Finding_The_Best_Markets_To_Advertise.ipynb)
+- [Find_The_Best_Markets_To_Advertise.ipynb](https://github.com/hftjmac/DataQuest-Projects/blob/master/Find_The_Best_Markets_To_Advertise.ipynb)
