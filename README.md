@@ -21,3 +21,6 @@ Star Wars Survey:
 
 Finding the Best Markets to Advertise in:
 - [Find_The_Best_Markets_To_Advertise.ipynb](https://github.com/hftjmac/DataQuest-Projects/blob/master/Find_The_Best_Markets_To_Advertise.ipynb)
+
+Predicting Bike Rentals:
+- [Predicting_Bike_Rentals.ipynb](https://github.com/hftjmac/DataQuest-Projects/blob/master/Predicting_Bike_Rentals.ipynb)
