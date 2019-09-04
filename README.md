@@ -24,3 +24,6 @@ Finding the Best Markets to Advertise in:
 
 Predicting Bike Rentals:
 - [Predicting_Bike_Rentals.ipynb](https://github.com/hftjmac/DataQuest-Projects/blob/master/Predicting_Bike_Rentals.ipynb)
+
+Classifying Handwritten Numbers:
+- [Classifying Handwritten Numbers](https://github.com/hftjmac/DataQuest-Projects/blob/master/Handwritten_Digits_Classifier.ipynb)
